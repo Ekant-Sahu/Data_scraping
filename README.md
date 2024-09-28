@@ -36,7 +36,7 @@ To get started with this project, follow the steps below:
 1. Clone this repository:
     ```bash
     git clone https://github.com/Ekant-Sahu/Data_scraping.git
-    cd your-repo-name
+    cd Data_scraping
     ```
 
 2. Install the required dependencies:
