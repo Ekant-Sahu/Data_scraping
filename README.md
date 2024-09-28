@@ -46,7 +46,7 @@ To get started with this project, follow the steps below:
 
 3. Run the script:
     ```bash
-    python your_script.py
+    python scrap.py
     ```
 
 The script will scrape the Wikipedia page or any page you specify, summarize the content, and save the results in a `cms_scrape.csv` file.
