@@ -35,7 +35,7 @@ To get started with this project, follow the steps below:
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/your-repo-name.git
+    git clone https://github.com/Ekant-Sahu/Data_scraping.git
     cd your-repo-name
     ```
 
